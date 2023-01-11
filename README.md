@@ -14,3 +14,6 @@ Boot with the USB key and use `GParted` application : used partition are marked 
 # Install batik sur Ubuntu (à tester)
 `sudo apt-get update -y`
 `sudo apt-get install -y libbatik-java`
+
+## Get the Java version
+`java -version`
